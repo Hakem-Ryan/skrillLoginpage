@@ -1,11 +1,16 @@
 
-.corral {
+.corral{
     margin: 0 auto;
     width: 460px;
 }
 
 .Skrill-logo{
 height: 150px;
+}
+
+.top-phrase p{
+	font-family: Helvetica,Arial,sans-serif;
+	font-style: bold;
 }
 
 .contentContainer {
